@@ -10,6 +10,7 @@
 <body>
     <div class="container">
         <h1 class="display-4 text-center text-info">Découverte Git/Github</h1>
+        <p class="alert alert-info p-2 text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque neque architecto voluptates sapiente hic eaque officiis quaerat laboriosam, delectus necessitatibus debitis dolore natus error et veritatis deserunt alias similique magnam!</p>
     </div>
 </body>
 </html>
